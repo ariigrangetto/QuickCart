@@ -1,0 +1,24 @@
+.filters {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 14px;
+  font-weight: 700;
+  color: white;
+}
+
+.filters > div {
+  display: flex;
+  gap: 1rem;
+}
+
+.filters select {
+  padding: 5px;
+  border-radius: 10px;
+  outline: none;
+  border: none;
+}
+
+.category {
+  margin-top: 2px;
+}
