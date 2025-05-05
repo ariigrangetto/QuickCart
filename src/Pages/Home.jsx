@@ -11,7 +11,7 @@ export default function Home(){
     return(
         <>
         <main className="home">
-            <img src="/icon.jpg" alt="ICON OF QUICKCART APP" />
+            <img src="public/images/icon.jpg" alt="ICON OF QUICKCART APP" />
             <h1 className="animate__animated animate__bounceInDown">Bienvenido a QuickCart</h1>
             <button onClick={handleClick}>Ingresar</button>
         </main>

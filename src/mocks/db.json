@@ -5,280 +5,280 @@
             "name": "Laptop Dell XPS 13",
             "category": "tecnology",
             "price": 1199,
-            "img": "public/LaptopDellXps.jpeg"
+            "img": "images/LaptopDellXps.jpeg"
         },
         {
             "id": 2,
             "name": "iPhone 15 Pro Max",
             "category": "tecnology",
             "price": 1299,
-            "img": "public/iphone15.jpeg"
+            "img": "images/iphone15.jpeg"
         },
         {
             "id": 3,
             "name": "Monitor LG UltraWide 34",
             "category": "tecnology",
             "price": 449,
-            "img": "public/monitorLGultrawide.jpeg"
+            "img": "images/monitorLGultrawide.jpeg"
         },
         {
             "id": 4,
             "name": "Teclado Mecánico Redragon",
             "category": "tecnology",
             "price": 59,
-            "img": "public/tecladoMecanico.jpeg"
+            "img": "images/tecladoMecanico.jpeg"
         },
         {
             "id": 5,
             "name": "Mouse Logitech MX Master 3",
             "category": "tecnology",
             "price": 99,
-            "img": "public/mouseLogitechMX.jpeg"
+            "img": "images/mouseLogitechMX.jpeg"
         },
         {
             "id": 6,
             "name": "Auriculares Sony WH-1000XM5",
             "category": "tecnology",
             "price": 379,
-            "img": "public/auricularesSony.jpeg"
+            "img": "images/auricularesSony.jpeg"
         },
         {
             "id": 7,
             "name": "Smartwatch Samsung Galaxy Watch 6",
             "category": "tecnology",
             "price": 319,
-            "img": "public/smartwatchSamsungGalaxy.jpeg"
+            "img": "images/smartwatchSamsungGalaxy.jpeg"
         },
         {
             "id": 8,
             "name": "Tablet iPad Air 2024",
             "category": "tecnology",
             "price": 599,
-            "img": "public/tabletIpadAir.jpeg"
+            "img": "images/tabletIpadAir.jpeg"
         },
         {
             "id": 9,
             "name": "Disco Duro Externo Seagate 2TB",
             "category": "tecnology",
             "price": 79,
-            "img": "public/discoDuroExternoSeagete.jpeg"
+            "img": "images/discoDuroExternoSeagete.jpeg"
         },
         {
             "id": 10,
             "name": "Cargador Inalámbrico Anker",
             "category": "tecnology",
             "price": 29,
-            "img": "public/cargadorInalambricoANKER.jpeg"
+            "img": "images/cargadorInalambricoANKER.jpeg"
         },
         {
             "id": 11,
             "name": "Freidora de Aire Philips XXL",
             "category": "home",
             "price": 189,
-            "img": "public/freidora.jpeg"
+            "img": "images/freidora.jpeg"
         },
         {
             "id": 12,
             "name": "Cafetera Nespresso Vertuo",
             "category": "home",
             "price": 149,
-            "img": "public/cafetera.jpeg"
+            "img": "images/cafetera.jpeg"
         },
         {
             "id": 13,
             "name": "Robot Aspirador Roomba i7",
             "category": "home",
             "price": 449,
-            "img": "public/aspiradora.jpeg"
+            "img": "images/aspiradora.jpeg"
         },
         {
             "id": 14,
             "name": "Juego de Ollas Tramontina",
             "category": "home",
             "price": 99,
-            "img": "public/ollasTramontina.jpeg"
+            "img": "images/ollasTramontina.jpeg"
         },
         {
             "id": 15,
             "name": "Licuadora Oster Pro",
             "category": "home",
             "price": 69,
-            "img": "public/licuadora.jpeg"
+            "img": "images/licuadora.jpeg"
         },
         {
             "id": 16,
             "name": "Horno eléctrico Black+Decker",
             "category": "home",
             "price": 119,
-            "img": "public/hornoElectrico.jpeg"
+            "img": "images/hornoElectrico.jpeg"
         },
         {
             "id": 17,
             "name": "Sábanas 100% Algodón Queen",
             "category": "home",
             "price": 49,
-            "img": "public/sabanas.jpeg"
+            "img": "images/sabanas.jpeg"
         },
         {
             "id": 18,
             "name": "Lámpara LED de Escritorio",
             "category": "home",
             "price": 25,
-            "img": "public/lampara.jpeg"
+            "img": "images/lampara.jpeg"
         },
         {
             "id": 19,
             "name": "Humidificador Xiaomi",
             "category": "home",
             "price": 39,
-            "img": "public/humificador.jpeg"
+            "img": "images/humificador.jpeg"
         },
         {
             "id": 20,
             "name": "Vajilla de 12 piezas Blanca",
             "category": "home",
             "price": 59,
-            "img": "public/vajillas.jpeg"
+            "img": "images/vajillas.jpeg"
         },
         {
             "id": 21,
             "name": "Zapatillas Nike Air Force 1",
             "category": "clothes and accessories",
             "price": 110,
-            "img": "public/zapatillas.jpeg"
+            "img": "images/zapatillas.jpeg"
         },
         {
             "id": 22,
             "name": "Camiseta Oversize Unisex",
             "category": "clothes and accessories",
             "price": 25,
-            "img": "public/camiseta.jpeg"
+            "img": "images/camiseta.jpeg"
         },
         {
             "id": 23,
             "name": "Pantalón Cargo Hombre",
             "category": "clothes and accessories",
             "price": 45,
-            "img": "public/pantalon.jpeg"
+            "img": "images/pantalon.jpeg"
         },
         {
             "id": 24,
             "name": "Mochila Herschel Classic",
             "category": " clothes and accessories",
             "price": 79,
-            "img": "public/mochila.jpeg"
+            "img": "images/mochila.jpeg"
         },
         {
             "id": 25,
             "name": "Gorro de Lana Uniqlo",
             "category": "clothes and accessories",
             "price": 19,
-            "img": "public/gorro.jpeg"
+            "img": "images/gorro.jpeg"
         },
         {
             "id": 26,
             "name": "Chaqueta Rompevientos Columbia",
             "category": "clothes and accessories",
             "price": 89,
-            "img": "public/chaqueta.jpeg"
+            "img": "images/chaqueta.jpeg"
         },
         {
             "id": 27,
             "name": "Reloj Casio Vintage",
             "category": "clothes and accessories",
             "price": 35,
-            "img": "public/reloj.jpeg"
+            "img": "images/reloj.jpeg"
         },
         {
             "id": 28,
             "name": "Gafas de Sol Ray-Ban",
             "category": "clothes and accessories",
             "price": 149,
-            "img": "public/gafas.jpeg"
+            "img": "images/gafas.jpeg"
         },
         {
             "id": 29,
             "name": "Cartera Cuero Minimalista",
             "category": "clothes and accessories",
             "price": 59,
-            "img": "public/cartera.jpeg"
+            "img": "images/cartera.jpeg"
         },
         {
             "id": 30,
             "name": "Bufanda Tejida a Mano",
             "category": "clothes and accessories",
             "price": 22,
-            "img": "public/bufanda.jpeg"
+            "img": "images/bufanda.jpeg"
         },
         {
             "id": 31,
             "name": "Consola Nintendo Switch OLED",
             "category": "entertainment",
             "price": 349,
-            "img": "public/nintendo.jpeg"
+            "img": "images/nintendo.jpeg"
         },
         {
             "id": 32,
             "name": "Control PS5 DualSense",
             "category": "entertainment",
             "price": 69,
-            "img": "public/control.jpeg"
+            "img": "images/control.jpeg"
         },
         {
             "id": 33,
             "name": "Juego The Legend of Zelda: Tears of the Kingdom",
             "category": "entertainment",
             "price": 69,
-            "img": "public/juego.jpeg"
+            "img": "images/juego.jpeg"
         },
         {
             "id": 34,
             "name": "Steam Deck",
             "category": "entertainment",
             "price": 399,
-            "img": "public/steam.jpeg"
+            "img": "images/steam.jpeg"
         },
         {
             "id": 35,
             "name": "Funko Pop! Star Wars",
             "category": "entertainment",
             "price": 15,
-            "img": "public/funko.jpeg"
+            "img": "images/funko.jpeg"
         },
         {
             "id": 36,
             "name": "Tarjeta de Regalo Xbox Live",
             "category": "entertainment",
             "price": 25,
-            "img": "public/tarjeta.jpeg"
+            "img": "images/tarjeta.jpeg"
         },
         {
             "id": 37,
             "name": "Volante Logitech G29",
             "category": "entertainment",
             "price": 299,
-            "img": "public/volante.jpeg"
+            "img": "images/volante.jpeg"
         },
         {
             "id": 38,
             "name": "Monitor Gaming 144hz",
             "category": "entertainment",
             "price": 229,
-            "img": "public/monitor.jpeg"
+            "img": "images/monitor.jpeg"
         },
         {
             "id": 39,
             "name": "Headset HyperX Cloud II",
             "category": "entertainment",
             "price": 89,
-            "img": "public/headset.jpeg"
+            "img": "images/headset.jpeg"
         },
         {
             "id": 40,
             "name": "Libro “El Juego del Alma” - Javier Castillo",
             "category": "entertainment",
             "price": 16,
-            "img": "public/libro.jpeg"
+            "img": "images/libro.jpeg"
         }
     ]
 }
