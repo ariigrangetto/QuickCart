@@ -1,12 +1,18 @@
-# React + Vite
+# QuickCart 🛒
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A shopping cart application developed with React, where I use useReducer to manage the complex state of the cart (adding, removing, and updating products), and useContext to share that state globally across components, avoiding prop drilling.
 
-Currently, two official plugins are available:
+The app consumes a custom JSON file I created, which contains the available products, and includes filters by category and price to enhance the user experience. It also features pagination to display the products in an organized way.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Una aplicación de carrito de compras desarrollada con React, donde implemento useReducer para gestionar el estado complejo del carrito (agregar, eliminar y actualizar productos), y useContext para compartir ese estado globalmente entre componentes, evitando el prop drilling.
 
-## Expanding the ESLint configuration
+La aplicación consume un archivo JSON creado por mí, que contiene los productos disponibles, e incluye filtros por categoría y precio para mejorar la experiencia del usuario. También cuenta con paginación para mostrar los productos de forma organizada.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## What I learned 🧠:
+- useReducer
+- useContext
+- Filtering
+- Pagination
+
+![336shots_so](https://github.com/user-attachments/assets/b19214aa-bc15-49b8-9cfc-eaabf39466b9)
+
