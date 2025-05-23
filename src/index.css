@@ -40,6 +40,7 @@ button {
   background-color: #1a1a1a41;
   cursor: pointer;
   transition: border-color 0.25s;
+  color: black;
 }
 
 button:focus,
