@@ -3,24 +3,6 @@ import { CartIcon, ClearCartIcon } from "./Icons";
 import "./Cart.css"
 import { CartContext } from "../context/cartContext";
 
-function CartItem ({img, name, quantity, price, removeFromCart }){
-    return(
-        <li>
-            <img src={img} alt={name} />
-            <div>
-                <strong>{name}</strong> - ${price}
-            </div>
-
-            <div className="item-footer">
-                <small>
-                    Qty: {quantity}
-                </small>
-                <button onClick={removeFromCart}>Eliminar</button>
-            </div>
-        </li>
-    )
-}
-
 export function Cart(){
     const {cart, removeFromCart, clearCart} = useContext(CartContext);
     const cartCheckId = useId();
@@ -40,13 +22,22 @@ export function Cart(){
                 <p>Tu carrito está vacio</p>
             ) : (
                 <ul>
-                    {cart.map((item) =>(
-                        <CartItem 
-                            key={item.id}
-                            removeFromCart={() => handleRemoveFromCart(item.id)}
-                            {...item}
-                            />
-                    ))}
+                    {cart.map((item) =>{
+                        return(
+                            <li key={item.id}>
+                                <img src={item.img} alt={item.name} />
+                                <div>
+                                    <strong>{item.name}</strong> -${item.price}
+                                </div>
+
+                                <small>
+                                    Qty: {item.quantity}
+                                </small>
+                                <button onClick= {() => handleRemoveFromCart(item.id)}>Eliminar</button>
+                            </li>
+                        )
+
+                })}
                 </ul>
             )}
                  <button onClick={clearCart}>
